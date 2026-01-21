@@ -18,54 +18,24 @@ and teaching experience.
 
 ---
 
-## Core Technical Projects
+## Core Projects
 
-### AR & ARIMA Simulation Framework
-**Repository:** `ar-arima-simulation`  
-Simulation and diagnostic analysis of AR and ARIMA processes, with emphasis on stationarity,
-invertibility, and finite-sample behavior.
+### AR & ARIMA Simulation
+Explore AR(1), AR(2), and ARIMA(1,1,1) simulations with diagnostics.
+[Repo link](https://github.com/Angela-Frances-Ibhade/ar-arima-simulation)
 
-**Key topics:**
-- AR and ARIMA simulation
-- ACF/PACF diagnostics
-- Monte Carlo experiments
+### VAR Simulation
+Simulation and analysis of vector autoregressive (VAR) models, including
+stationarity and impulse response analysis.
+[Repo link](https://github.com/Angela-Frances-Ibhade/var-simulation)
 
----
+### Markov-Switching AR (MS-AR)
+Implementations of MS-AR models with EM estimation, filtering, and smoothing.
+[Repo link](https://github.com/Angela-Frances-Ibhade/ms-ar)
 
-### VAR Simulation and Stability Analysis
-**Repository:** `var-simulation-analysis`  
-Simulation and analysis of vector autoregressive (VAR) models, focusing on stationarity
-conditions, eigenvalue analysis, and impulse response behavior.
-
-**Key topics:**
-- Companion matrix representation
-- Stability and stationarity
-- Multivariate dynamics
-
----
-
-### Markov-Switching Autoregressive Models
-**Repository:** `ms-ar-regime-switching`  
-Implementation of a Markov-Switching AR model with simulation, likelihood-based estimation,
-EM algorithm derivation, and regime filtering/smoothing.
-
-**Key topics:**
-- Regime-dependent dynamics
-- EM algorithm for hidden states
-- Filtering and smoothing probabilities
-- Numerical stability and identification issues
-
----
-
-## Applied & Academic Projects
-
-### Credit Risk Modeling Project
-Empirical analysis applying time series and econometric techniques to credit risk modeling,
-with a focus on interpretation and model assessment.
-
-### Additional Coursework Projects
-A selection of academic projects involving empirical analysis, forecasting, and simulation
-developed as part of graduate-level coursework.
+### Other Academic Projects
+Additional coursework projects and credit risk analysis.
+[Repo link](https://github.com/Angela-Frances-Ibhade/credit-risk-project)
 
 ---
 
