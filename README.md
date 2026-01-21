@@ -22,20 +22,20 @@ and teaching experience.
 
 ### AR & ARIMA Simulation
 Explore AR(1), AR(2), and ARIMA(1,1,1) simulations with diagnostics.
-[Repo link](https://github.com/Angela-Frances-Ibhade/ar-arima-simulation)
+[Repo link](https://github.com/ang-fran/ar-arima-simulation)
 
 ### VAR Simulation
 Simulation and analysis of vector autoregressive (VAR) models, including
 stationarity and impulse response analysis.
-[Repo link](https://github.com/Angela-Frances-Ibhade/var-simulation)
+[Repo link](https://github.com/ang-fran/var-simulation)
 
 ### Markov-Switching AR (MS-AR)
 Implementations of MS-AR models with EM estimation, filtering, and smoothing.
-[Repo link](https://github.com/Angela-Frances-Ibhade/ms-ar)
+[Repo link](https://github.com/ang-fran/ms-ar)
 
 ### Other Academic Projects
 Additional coursework projects and credit risk analysis.
-[Repo link](https://github.com/Angela-Frances-Ibhade/credit-risk-project)
+[Repo link](https://github.com/ang-fran/credit-risk-project)
 
 ---
 
