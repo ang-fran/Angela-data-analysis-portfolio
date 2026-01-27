@@ -27,7 +27,7 @@ Explore AR(1), AR(2), and ARIMA(1,1,1) simulations with diagnostics.
 ### VAR Simulation
 Simulation and analysis of vector autoregressive (VAR) models, including
 stationarity and impulse response analysis.
-[Repo link](https://github.com/ang-fran/var-simulation)
+[Repo link](https://github.com/ang-fran/var-vec-simulation)
 
 ### Markov-Switching AR (MS-AR)
 Implementations of MS-AR models with EM estimation, filtering, and smoothing.
