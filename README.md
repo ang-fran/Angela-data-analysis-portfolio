@@ -38,9 +38,9 @@ Implementations of mutlivariate extension of autoregressive MS models.
 
 ### Other Academic Projects
 Additional academic projects
-- [Repo link](https://github.com/ang-fran/EEG_Research_Project)
-- [Repo link](https://github.com/ang-fran/Spread-of-Technology-Project)
-- [Repo link](https://github.com/ang-fran/Hypoxia_Project)
+- EEG-Based Prediction of Visual Working Memory: [Repo link](https://github.com/ang-fran/EEG_Research_Project)
+- Technology Adoption Growth Modeling: [Repo link](https://github.com/ang-fran/Spread-of-Technology-Project)
+- Forecasting Hypoxia in the Gulf of St. Lawrence: [Repo link](https://github.com/ang-fran/Hypoxia_Project)
 
 ---
 
