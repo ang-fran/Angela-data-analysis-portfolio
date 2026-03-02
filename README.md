@@ -38,7 +38,9 @@ Implementations of mutlivariate extension of autoregressive MS models.
 
 ### Other Academic Projects
 Additional academic projects
-[Repo link](https://github.com/ang-fran/other-academic-projects)
+[Repo link](https://github.com/ang-fran/EEG_Research_Project)
+[Repo link](https://github.com/ang-fran/Spread_of_Technology_Project)
+[Repo link](https://github.com/ang-fran/Hypoxia_Project)
 
 ---
 
