@@ -37,8 +37,8 @@ Implementations of mutlivariate extension of autoregressive MS models.
 [Repo link](https://github.com/ang-fran/ms-var)
 
 ### Other Academic Projects
-Additional coursework projects and credit risk analysis.
-[Repo link](https://github.com/ang-fran/credit-risk-project)
+Additional academic projects
+[Repo link](https://github.com/ang-fran/other-academic-projects)
 
 ---
 
