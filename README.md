@@ -36,6 +36,14 @@ Implementations of MS-AR models with EM estimation, filtering, and smoothing.
 Implementations of mutlivariate extension of autoregressive MS models.
 [Repo link](https://github.com/ang-fran/ms-var)
 
+### Mixed-Lag Markov-Switching Autoregressive Models
+Implementations of newly developed mixed-lag Markov-switching AR & VAR models.
+[Repo link](https://github.com/ang-fran/mixed-ms-ar-var)
+
+### Thesis Research: Exploring Macroeconomic Influences on Mortgage Delinquency in Canada Using Regime-Switching Time Series Models
+Implementations of newly developed mixed-lag Markov-switching AR & VAR models.
+[Repo link](https://github.com/ang-fran/thesis-research)
+
 ### Other Academic Projects
 Additional academic projects
 - EEG-Based Prediction of Visual Working Memory: [Repo link](https://github.com/ang-fran/EEG_Research_Project)
