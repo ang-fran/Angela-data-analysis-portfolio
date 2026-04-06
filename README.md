@@ -55,11 +55,12 @@ Additional academic projects
 
 ## Tools & Methods
 
-- **Programming:** R & Python
-- **Time Series:** AR, ARIMA, VAR, VECM, Markov-Switching models  
-- **Estimation:** Likelihood-based methods, EM algorithm  
-- **Techniques:** Simulation, filtering & smoothing, matrix methods  
-- **Practices:** Reproducible research, structured project organization
+* **Programming:** R, Python
+* **Time Series:** AR, ARIMA, VAR, VECM, Markov-Switching models (MSAR, MSMAH-VAR)
+* **Estimation:** Likelihood-based methods, EM algorithm, Hamilton filter & smoother
+* **Package Development:** R package authoring in progress
+* **Techniques:** Simulation, regime probability filtering & smoothing, matrix methods
+* **Practices:** Reproducible research, structured project organization, version control (Git/GitHub)
 
 ---
 
