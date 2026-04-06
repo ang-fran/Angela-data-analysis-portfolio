@@ -44,19 +44,9 @@ Additional academic projects
 
 ---
 
-## Teaching & Technical Experience
-
-### Statistical Computing in R (Teaching Assistant)
-**Repository:** `statistical-computing-r-ta`  
-Teaching materials and examples developed while serving as a Teaching Assistant for a
-statistical computing course, emphasizing reproducible simulation, debugging strategies,
-and efficient R programming.
-
----
-
 ## Tools & Methods
 
-- **Programming:** R  
+- **Programming:** R & Python
 - **Time Series:** AR, ARIMA, VAR, VECM, Markov-Switching models  
 - **Estimation:** Likelihood-based methods, EM algorithm  
 - **Techniques:** Simulation, filtering & smoothing, matrix methods  
