@@ -28,14 +28,6 @@ Explore AR(1), AR(2), and ARIMA of differet orders simulations with diagnostics.
 Simulation and analysis of vector autoregressive (VAR) models and vector error correction (VEC) models 
 [Repo link](https://github.com/ang-fran/var-vec-simulation)
 
-### Markov-Switching AR (MS-AR)
-Implementations of MS-AR models with EM estimation, filtering, and smoothing.
-[Repo link](https://github.com/ang-fran/ms-ar)
-
-### Markov-Switching VAR (MS-VAR)
-Implementations of mutlivariate extension of autoregressive MS models.
-[Repo link](https://github.com/ang-fran/ms-var)
-
 ### Mixed-Lag Markov-Switching Autoregressive Models
 Implementations of newly developed mixed-lag Markov-switching AR & VAR models.
 [Repo link](https://github.com/ang-fran/mixed-ms-ar-var)
