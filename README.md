@@ -32,6 +32,15 @@ Simulation and analysis of vector autoregressive (VAR) models and vector error c
 Simulation and analysis of newly developed mixed-lag Markov-switching AR & VAR models.
 [Repo link](https://github.com/ang-fran/mixed-ms-ar-var)
 
+### MSMAH-VAR: R Package for Markov-Switching Mean-Adjusted VAR Models (under construction)
+
+An R package developed by me implementing the **Markov-Switching Mean-Adjusted VAR (MSMAH-VAR)** model,
+featuring state-dependent means, autoregressive coefficients, and covariance matrices.
+Estimation is carried out via an exact EM algorithm for augmented states,
+applicable to both simulated and real-world datasets.
+
+[Repo link](https://github.com/ang-fran/MSMAHVAR)
+
 ### Thesis Research: Exploring Macroeconomic Influences on Mortgage Delinquency in Canada Using Regime-Switching Time Series Models
 Exploring stationary time series models in comparison with regime-switching models to analyse the relationship between macroeconomic variables and mortgage delinquency and potentially predict mortgage delinquency rates.
 [Repo link](https://github.com/ang-fran/thesis-research)
