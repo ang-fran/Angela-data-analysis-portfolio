@@ -29,11 +29,11 @@ Simulation and analysis of vector autoregressive (VAR) models and vector error c
 [Repo link](https://github.com/ang-fran/var-vec-simulation)
 
 ### Mixed-Lag Markov-Switching Autoregressive Models
-Implementations of newly developed mixed-lag Markov-switching AR & VAR models.
+Simulation and analysis of newly developed mixed-lag Markov-switching AR & VAR models.
 [Repo link](https://github.com/ang-fran/mixed-ms-ar-var)
 
 ### Thesis Research: Exploring Macroeconomic Influences on Mortgage Delinquency in Canada Using Regime-Switching Time Series Models
-Implementations of newly developed mixed-lag Markov-switching AR & VAR models.
+Exploring stationary time series models in comparison with regime-switching models to analyse the relationship between macroeconomic variables and mortgage delinquency and potentially predict mortgage delinquency rates.
 [Repo link](https://github.com/ang-fran/thesis-research)
 
 ### Other Academic Projects
