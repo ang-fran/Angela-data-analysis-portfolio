@@ -1,4 +1,4 @@
-# Angela-Frances Ibhade - Data Analytics Portfolio
+# Angela-Frances Ibhade — Data Analytics Portfolio
 
 **MSc Statistics · Brock University (2026)**  
 Specializing in time series econometrics, regime-switching models, and applied data analytics.  
@@ -10,13 +10,13 @@ Open to credit risk, data analytics, data scientist, and quantitative research r
 
 ## About
 
-I'm a statistician and data analyst with deep expertise in time series modeling and a growing
+I'm a statistician and aspiring data analyst with deep expertise in time series modeling and a growing
 track record applying quantitative methods to real-world problems in finance and credit risk.
 
-My graduate research focuses on regime-switching time series models — specifically their
+My graduate research focuses on regime-switching time series models - specifically their
 application to macroeconomic forecasting and mortgage delinquency prediction in Canada.
-Alongside thesis work, I've built production-oriented projects in SQL and Power BI, and
-developed an R package implementing a novel Markov-Switching VAR estimator.
+Alongside thesis work, I've built production-oriented projects in SQL, Power BI, and Python,
+and developed an R package implementing a novel Markov-Switching VAR estimator.
 
 I bring together rigorous statistical foundations, hands-on programming in R, Python, SQL,
 and SAS, and the ability to communicate technical findings clearly to non-technical audiences.
@@ -25,19 +25,32 @@ and SAS, and the ability to communicate technical findings clearly to non-techni
 
 ## Featured Projects
 
-### Credit Risk Scorecard Dashboard
-**SQL · Power BI**
+### End-to-End Credit Risk Analytics Pipeline
+**SQL · Power BI · Python · Scikit-learn · XGBoost · SHAP**
 
-End-to-end credit risk analysis on 2.2M+ Lending Club loan records. Built a 3-layer SQL
-data pipeline (raw → staging → mart), engineered 6 borrower risk features (default flag,
-DTI buckets, income bands, delinquency indicators), and designed a 3-page interactive
-Power BI dashboard covering portfolio KPIs, borrower segmentation, and vintage default curves.
+A two-part project analyzing 2.2M+ Lending Club loan records from business intelligence
+through to predictive modeling and explainability.
+
+**Part 1 — Credit Risk Scorecard Dashboard** ([Repo link](https://github.com/ang-fran/credit-risk-scorecard))  
+Built a 3-layer SQL data pipeline (raw → staging → mart), engineered 6 borrower risk
+features, and designed a 3-page interactive Power BI dashboard covering portfolio KPIs,
+borrower risk segmentation, and vintage default curves (2007–2018).
 
 Key findings: Grade G borrowers default at 12× the rate of Grade A; debt consolidation
-accounts for 59% of loan volume; 2007 pre-crisis vintages show peak default rates of ~48%
-for high-risk grades.
+accounts for 59% of loan volume; 2007 pre-crisis vintages peak at ~48% default rate for
+high-risk grades.
 
-[Repo link](https://github.com/ang-fran/credit-risk-scorecard)
+**Part 2 — Credit Default Prediction Model** ([Repo link](https://github.com/ang-fran/credit-default-prediction))  
+Extended the same dataset into a full ML pipeline — comparing Logistic Regression, Random
+Forest, and XGBoost on 266K resolved loans. Applied SMOTE to handle class imbalance and
+used SHAP to explain individual predictions.
+
+Key results: XGBoost AUC 0.71, KS statistic 0.30 — meeting the industry threshold for an
+acceptable credit scorecard. SHAP waterfall analysis traced one borrower's predicted
+default probability from a 2.9% base rate to 81.1%, driven by Grade F, a 26.99% interest
+rate, and renter status.
+
+> SQL pipeline → Business dashboard → Predictive model → Explainability
 
 ---
 
@@ -47,7 +60,7 @@ for high-risk grades.
 MSc thesis investigating the relationship between macroeconomic variables (interest rates,
 unemployment, GDP) and Canadian mortgage delinquency rates. Compares stationary ARIMAX
 and VAR baselines against Markov-switching alternatives to capture structural breaks and
-economic regime changes. Ongoing - targeting defense in 2026.
+economic regime changes. Ongoing — targeting defense in 2026.
 
 [Repo link](https://github.com/ang-fran/thesis-research)
 
@@ -112,6 +125,7 @@ models, covering estimation, impulse response analysis, and cointegration testin
 
 **Languages:** R, Python, SQL, SAS  
 **Analytics & BI:** Power BI, Excel  
+**Machine Learning:** Logistic Regression, Random Forest, XGBoost, SMOTE, SHAP  
 **Time Series:** AR/ARIMA, VAR, VECM, Markov-Switching models (MS-AR, MSMAH-VAR)  
 **Estimation:** Maximum likelihood, EM algorithm, Hamilton filter & smoother  
 
