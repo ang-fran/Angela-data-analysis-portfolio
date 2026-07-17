@@ -66,10 +66,10 @@ economic regime changes. Ongoing — targeting defense in 2026.
 
 ---
 
-### MSMAH-VAR: R Package for Markov-Switching Mean-Adjusted VAR Models
+### MSM-VAR: R Package for Markov-Switching Mean-Adjusted VAR Models
 **R Package Development · EM Algorithm · Multivariate Time Series**
 
-Authored an R package implementing the Markov-Switching Mean-Adjusted VAR (MSMAH-VAR)
+Authored an R package implementing the Markov-Switching Mean-Adjusted VAR (MSM-VAR)
 model from scratch. Features state-dependent means, autoregressive coefficients, and
 covariance matrices estimated via an exact EM algorithm with Hamilton filter-smoother.
 Applicable to both simulated and real macroeconomic datasets. Currently under active
